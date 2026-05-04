@@ -100,6 +100,4 @@ All endpoints are from [https://api.freeapi.app](https://api.freeapi.app) — no
 
 ---
 
-## 📄 License
-
-MIT — free to use and modify.
+#chaicode project
